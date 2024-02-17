@@ -4,6 +4,7 @@ Version 1.1 - Now with searchable ID codes - An Event/To-do list organiser with 
 
 Features of this programme:
 <br>
+<br>
 Add an event<br>
 Edit an event<br>
 Search through stored events (With IDs or Title)<br>
