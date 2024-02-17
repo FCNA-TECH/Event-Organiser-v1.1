@@ -6,7 +6,7 @@ Changes:
 - Events can now be Edited<br>
 - Events now come with ID codes<br>
 - Events can be searched using their Title or ID<br>
-- However, due to the nature of how the ID codes work, Number of Events is now only limited to 9999<br>
+- However, due to the nature of how the ID codes work, The number of stored Events is now only limited to 9999<br>
 
 <br>
 Features of this programme:
