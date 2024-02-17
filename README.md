@@ -1,6 +1,7 @@
 # Event-Organiser-v1.1
 Version 1.1 - Now with searchable ID codes and Editable Events - An Event/To-do list organiser with a Command line user interface. Written in C# using Object Oriented Programming techniques.
 <br>
+<br>
 
 Changes:
 - Events can now be Edited<br>
