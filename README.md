@@ -7,6 +7,9 @@ Changes:
 - Events now come with ID codes<br>
 - Events can be searched using their Title or ID<br>
 - However, due to the nature of how the ID codes work, The number of stored Events is now only limited to 9999<br>
+- More input validation<br>
+- User Interface updated - line spacing and SYSTEM messages<br>
+- Program finishes if any genuine error is caught e.g. (incorrect variable type entered such as Date Time)<br>
 
 <br>
 Features of this programme:
